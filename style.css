@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h1,h4{
+	color: #fff;
+}
+.bg-1{
+	background-color: #03062f;
+}
+.nav-link{
+	color: #fff;
+}
+.info-section{
+	background-image: url(../images/Vector1.png);
+	height: 600px;
+}
+.info-image{
+	margin-top: 50px;
+}
+.navbar-toggler-icon{
+	background-image: url(../images/ham.png);
+}
+.top{
+	padding: 5px;
+}
+.info-text{
+	padding-top: 50px;
+}
+.info-text1{
+	padding-top: 40px;
+	padding-bottom: 20px;
+	color: #fff;
+	font-size: 18px;
+}
+.rectangle{
+	margin-top: 20px;
+}
+.info-image{
+	margin: auto;
+	padding-left: 50px;
+}
+.dot{
+	margin-left: 20px;
+	margin-top: 225px;
+}
